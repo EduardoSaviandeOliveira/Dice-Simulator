@@ -30,9 +30,7 @@ Then a function must be called that receives this counter vector per parameter a
 
 - Options reading functions must be passed as variables to be read byparameter (by reference);
 
-- To save the statistical data, make a vector of 100 positions and use;
-
-up to the value that is needed, make a function that resets all its values
+- To save the statistical data, make a vector of 100 positions and use up to the value that is needed, make a function that resets all its values
 paragraph 0;
 
 - The display function as statistics must be one, called by the rotation functions
